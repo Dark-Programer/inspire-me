@@ -1,6 +1,9 @@
 <h1>Quote Generator</h1>
-    <p>A responsive website that generates random quotes using the Quotable API. This project uses Apple's system font for a sleek, modern appearance and is fully responsive to ensure a great user experience on all devices.</p>
-    
+<p>A responsive website that generates random quotes using the Quotable API. This project uses Apple's system font for a sleek, modern appearance and is fully responsive to ensure a great user experience on all devices.
+
+Click the link below to experience the magic yourself and start your day with a dose of inspiration! 💬
+https://dark-programer.github.io/inspire-me</p>
+
 <h2>Features</h2>
     <ul>
         <li><strong>Random Quotes</strong>: Fetches random quotes from the Quotable API.</li>
